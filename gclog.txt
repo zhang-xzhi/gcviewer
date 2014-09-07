@@ -1,0 +1,19 @@
+2014-08-20T17:48:21.076+0800: [GC [1 CMS-initial-mark: 894430K(1310720K)] 937193K(2018560K), 0.0282240 secs] [Times: user=0.03 sys=0.00, real=0.03 secs] 
+2014-08-20T17:48:22.193+0800: [CMS-concurrent-mark: 1.088/1.088 secs] [Times: user=1.50 sys=0.09, real=1.09 secs] 
+2014-08-20T17:48:22.215+0800: [CMS-concurrent-preclean: 0.018/0.022 secs] [Times: user=0.04 sys=0.01, real=0.02 secs] 
+2014-08-20T17:48:26.773+0800: [CMS-concurrent-abortable-preclean: 4.533/4.558 secs] [Times: user=6.60 sys=0.41, real=4.56 secs] 
+2014-08-20T17:48:26.776+0800: [GC[YG occupancy: 376368 K (707840 K)][Rescan (parallel) , 0.1614480 secs][weak refs processing, 0.0009130 secs][class unloading, 0.0093330 secs][scrub symbol & string tables, 0.0073960 secs] [1 CMS-remark: 894430K(1310720K)] 1270799K(2018560K), 0.1836520 secs] [Times: user=0.66 sys=0.00, real=0.19 secs] 
+2014-08-20T17:48:28.134+0800: [CMS-concurrent-sweep: 1.173/1.173 secs] [Times: user=1.61 sys=0.07, real=1.17 secs] 
+2014-08-20T17:48:28.138+0800: [CMS-concurrent-reset: 0.004/0.004 secs] [Times: user=0.01 sys=0.00, real=0.00 secs]
+
+2014-08-20T17:48:32.872+0800: [GC [ParNew: 671811K->56895K(707840K), 0.0501820 secs] 1195100K->584461K(2018560K), 0.0506010 secs] [Times: user=0.19 sys=0.00, real=0.05 secs] 
+
+2014-08-21T12:57:31.039+0800: [GC [ParNew: 707840K->707840K(707840K), 0.0000600 secs][CMS2014-08-21T12:57:32.419+0800: [CMS-concurrent-sweep: 1.851/1.858 secs] [Times: user=2.66 sys=0.23, real=1.86 secs] 
+ (concurrent mode failure): 1043351K->1061176K(1310720K), 6.7085780 secs] 1751191K->1061176K(2018560K), [CMS Perm : 73247K->73199K(196608K)], 6.7091580 secs] [Times: user=6.72 sys=0.00, real=6.70 secs] 
+
+
+
+2014-08-21T12:59:11.698+0800: [Full GC [CMS: 1310720K->1310719K(1310720K), 7.5913440 secs] 2018559K->1726579K(2018560K), [CMS Perm : 73237K->73234K(196608K)], 7.5918010 secs] [Times: user=7.62 sys=0.00, real=7.59 secs] 
+
+2014-08-21T12:59:21.014+0800: [Full GC [CMS2014-08-21T12:59:22.872+0800: [CMS-concurrent-mark: 3.046/3.061 secs] [Times: user=6.03 sys=0.31, real=3.06 secs] 
+ (concurrent mode failure): 1310719K->1310719K(1310720K), 8.8504440 secs] 2018559K->1750445K(2018560K), [CMS Perm : 73237K->73237K(196608K)], 8.8509720 secs] [Times: user=8.83 sys=0.00, real=8.85 secs] 
