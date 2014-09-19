@@ -334,6 +334,9 @@ public class DataHolder {
                     addCache(cache, time, GCMemoryType.MM_FixESO, (static_eso)
                             + "");
 
+                    addCache(cache, time, GCMemoryType.MM_Promote, (aftero - o)
+                            + "");
+
                 }
 
                 continue;

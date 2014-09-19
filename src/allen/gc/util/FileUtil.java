@@ -25,7 +25,7 @@ public class FileUtil {
      * */
     public static File selectFileForRead(Component parent) {
         // Create a file chooser
-        final JFileChooser fc = new JFileChooser(".");
+        final JFileChooser fc = new JFileChooser("D:\\allen_alipay\\allen\\allen问题排查\\2014-08-21 cq机房切换服务不稳定gc问题");
 
         fc.setFileSelectionMode(JFileChooser.FILES_ONLY);
 

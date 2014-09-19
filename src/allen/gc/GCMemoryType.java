@@ -21,8 +21,11 @@ public enum GCMemoryType {
 
     MM_ESO("MM_ESO"),
 
-    MM_AfterGC_ESO("MM_AfterGC_ESO"), ;
+    MM_AfterGC_ESO("MM_AfterGC_ESO"),
 
+    MM_Promote("MM_Promote"),
+
+    ;
     private String desc;
 
     public String getDesc() {
